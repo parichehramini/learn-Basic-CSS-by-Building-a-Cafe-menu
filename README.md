@@ -26,4 +26,4 @@ Just open the `index.html` file in your browser and enjoy the simple cafe menu l
 
 ---
 
-Created with 💛 by [Your Name]
+Created with 💛 by [parichehramini]
