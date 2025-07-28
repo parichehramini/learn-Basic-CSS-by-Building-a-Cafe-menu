@@ -17,7 +17,8 @@ This is a simple **responsive cafe menu** built as part of the **"Learn Basic CS
 ## 📸 Preview
 
 Here’s a sneak peek of the menu design:  
-*(you can add a screenshot here if you want)*
+<img width="565" height="638" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/857d79fa-f6dc-4c13-9b15-dd5deaca90c9" />
+
 
 ## 🛠️ How to Use
 
